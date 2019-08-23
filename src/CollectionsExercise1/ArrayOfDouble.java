@@ -1,4 +1,4 @@
-package randArrayOfDouble;
+package CollectionsExercise1;
 
 public class ArrayOfDouble {
     public static void main(String[] args) {

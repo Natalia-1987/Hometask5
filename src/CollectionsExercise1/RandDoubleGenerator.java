@@ -1,4 +1,4 @@
-package randArrayOfDouble;
+package CollectionsExercise1;
 
 import java.util.Random;
 

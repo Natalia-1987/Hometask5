@@ -22,7 +22,7 @@ public class CollectionsExercise4 {
         mylist.add("Austria");
         mylist.add("Spain");
         mylist.add("Ukraine");
-        
+
         System.out.println("Original List : \n" + mylist2);
         Collections.shuffle(mylist2);
         System.out.println("\nShuffled List : \n" + mylist2);

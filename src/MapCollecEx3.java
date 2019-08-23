@@ -6,9 +6,9 @@ public class MapCollecEx3 {
         ArrayList<Mouse> mice = new ArrayList<Mouse>();
         for(int i = 0; i < 10; i++)
             mice.add(new Mouse(i));
-        Iterator<Mouse> it = mice.iterator();
-        while(it.hasNext())
-            it.next().hop();
+        Iterator<Mouse> iter = mice.iterator();
+        while(iter.hasNext())
+            iter.next().hop();
     }
 
 }

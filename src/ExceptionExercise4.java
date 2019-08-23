@@ -1,4 +1,4 @@
-public class Resumption {
+public class ExceptionExercise4 {
 
     public static void main(String[] args)
     {
