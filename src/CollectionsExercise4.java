@@ -9,6 +9,7 @@ public class CollectionsExercise4 {
         mylist.add("Spain");
         mylist.add("Ukraine");
 
+        Collections.sort(mylist);
         System.out.println("Original List : \n" + mylist);
         Collections.shuffle(mylist);
         System.out.println("\nShuffled List : \n" + mylist);
@@ -23,6 +24,7 @@ public class CollectionsExercise4 {
         mylist.add("Spain");
         mylist.add("Ukraine");
 
+        Collections.sort(mylist2);
         System.out.println("Original List : \n" + mylist2);
         Collections.shuffle(mylist2);
         System.out.println("\nShuffled List : \n" + mylist2);
