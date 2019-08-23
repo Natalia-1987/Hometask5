@@ -1,12 +1,4 @@
-
-    // exceptions/Ex2.java
-// TIJ4 Chapter Exceptions, Exercise 2, page 452
-    /* Define an object reference and initialize it to null. Try to call a method
-     * through this reference. Now wrap the code in a try-catch clause to catch the
-     * exception.
-     */
-
-    public class Exercise3 {
+public class Exercise3 {
         private static Integer i = null;
         public static void main(String[] args) {
             // leads to NullPointerException:
